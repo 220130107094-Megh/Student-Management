@@ -48,14 +48,11 @@ Database Name
 student_db
 
 Table Structure
-CREATE TABLE students (
-    id INT PRIMARY KEY AUTO_INCREMENT,
-    first_name VARCHAR(100),
-    last_name VARCHAR(100),
-    email VARCHAR(150),
-    gender VARCHAR(10),
-    dob DATE
-);
+
+
+<img width="396" height="262" alt="image" src="https://github.com/user-attachments/assets/a319c6e0-3e89-41f0-9418-7e2676e006ac" />
+
+
 
 ⚙️ Setup Instructions
 1️⃣ Clone or Extract Project
