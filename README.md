@@ -22,27 +22,8 @@ This application allows users to add, view, update, delete, search, and filter s
 🧪 Database connection testing
 
 🏗 Project Structure
-StudentManagement/
-│
-├── src/main/java/
-│   ├── controller/
-│   │   └── StudentServlet.java
-│   ├── dao/
-│   │   └── StudentDAO.java
-│   └── model/
-│       └── Student.java
-│
-├── src/main/webapp/
-│   ├── index.jsp
-│   ├── manageStudents.jsp
-│   ├── studentForm.jsp
-│   └── WEB-INF/
-│       └── web.xml
-│
-├── src/test/java/
-│   └── DBTest.java
-│
-└── pom.xml
+<img width="419" height="648" alt="image" src="https://github.com/user-attachments/assets/0ae1924e-5311-4780-a472-a6fc27fb66b0" />
+
 
 
 
