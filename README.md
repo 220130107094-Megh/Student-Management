@@ -22,9 +22,9 @@ This application allows users to add, view, update, delete, search, and filter s
 🧪 Database connection testing
 
 🏗 Project Structure
+
+
 <img width="419" height="648" alt="image" src="https://github.com/user-attachments/assets/0ae1924e-5311-4780-a472-a6fc27fb66b0" />
-
-
 
 
 🛠 Technologies Used
