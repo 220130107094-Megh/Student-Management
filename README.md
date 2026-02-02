@@ -23,9 +23,7 @@ This application allows users to add, view, update, delete, search, and filter s
 
 🏗 Project Structure
 
-
 <img width="419" height="648" alt="image" src="https://github.com/user-attachments/assets/0ae1924e-5311-4780-a472-a6fc27fb66b0" />
-
 
 🛠 Technologies Used
 
@@ -49,12 +47,10 @@ student_db
 
 Table Structure
 
-
 <img width="396" height="262" alt="image" src="https://github.com/user-attachments/assets/a319c6e0-3e89-41f0-9418-7e2676e006ac" />
 
-
-
 ⚙️ Setup Instructions
+
 1️⃣ Clone or Extract Project
 StudentManagement.zip
 
@@ -89,6 +85,7 @@ Open browser:
 http://localhost:8080/StudentManagement/
 
 🔄 Data Flow (MVC)
+
 JSP (View)
    ↓
 StudentServlet (Controller)
@@ -110,18 +107,6 @@ index.jsp → Home Page
 manageStudents.jsp → Student List
 
 studentForm.jsp → Add/Edit Student
-
-📌 Future Enhancements
-
-Login & Authentication
-
-Export to Excel/PDF
-
-REST API support
-
-Spring Boot Migration
-
-Advanced filters
 
 👨‍💻 Author
 
